@@ -1,5 +1,6 @@
 # 💫 About Me:
 🎮 I'm working on a game engine
+🗨️ My Gitter: @omerpa55:gitter.im
 
 
 # 💻 Tech Stack:
